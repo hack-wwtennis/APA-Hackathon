@@ -1,0 +1,47 @@
+Data Entry Timestamp more than 30 elements
+Treatment Date more than 30 elements
+Treatment Shift {'AM': 4358, 'PM': 4191, 'nan': 2}
+Dog A# more than 30 elements
+Dog Name more than 30 elements
+Paw Temperature {'0.0': 8454, '1.0': 97}
+Gum Color {'0.0': 8084, '1.0': 444, '2.0': 13, '3.0': 10}
+Attitude {'2.0': 3028, '1.0': 5428, '3.0': 90, '4.0': 5}
+Co-morbidities noted TODAY {'nan': 8313, 'suspect right tibia fracture healing': 1, 'Intestinal Parasites': 35, 'URI': 81, 'Heart murmur': 1, 'Possible Intussusception': 1, 'Ringworm': 75, 'Coughing': 1, 'Distemper': 12, 'Abscess - Catheter': 9, 'Nasal Discharge': 1, 'URI, Ringworm': 7, 'Abscess - Baytril': 2, 'Swollen Face': 1, 'Sarcoptic Mange': 4, 'Distemper - Watch': 1, 'Broken paw': 1, 'Broken Legs': 1, 'Eye Discharge': 1, 'Abscess on left axillary region/lateral thorax from previous shelter': 1, 'Oozing wound on left shelter': 1, 'Demodex Mange': 1}
+On Distemper Watch? (only mark on shift watch started) {'0': 8432, '1': 119}
+Baytril mL (Strength:100mg/mL) SQ ONLY more than 30 elements
+Polyflex mL (Strength: 200mg/mL) SQ ONLY more than 30 elements
+Metoclopromide mL (Strength: 5mg/mL) more than 30 elements
+Metoclopromide Route {'nan': 4963, 'SQ': 3577, 'IV': 11}
+Cerenia mL  more than 30 elements
+Cerenia Route {'nan': 5103, 'SQ': 3374, 'IV': 74}
+Vomiting {'0.0': 7737, '2.0': 210, '1.0': 593, '3.0': 11}
+Appetite {'3.0': 2784, '2.0': 24, '1.0': 1179, '0.0': 4564}
+Feces {'4.0': 661, '2.0': 3296, '0.0': 1232, '1.0': 2572, '3.0': 790}
+Type of Fluids Administered more than 30 elements
+Force Feeding {'15 mL': 591, '0 mL (Did NOT FF)': 5099, '35 mL': 162, '20 mL': 679, 'nan': 23, '10 mL': 198, '30 mL': 678, '25 mL': 559, '45 mL': 66, '35': 1,
+'5 mL': 18, '40 mL': 201, '60 mL': 141, '50 mL': 13, '50': 22, '60': 66, '60 ml': 26, '50ml': 1, '60cc': 4, '50 ml': 1, '100': 1, '55': 1}
+Packed Cell Volume % (not required each shift) more than 30 elements
+Blood Glucose (not required each shift) more than 30 elements
+Total Protein (not required each shift) more than 30 elements
+Temperature F (not required each shift) more than 30 elements
+Drinking Water {'1.0': 3370, '0.0': 5181}
+Cefazolin mL (1 gram/vial) IV ONLY more than 30 elements
+Hetastarch Rate mL/hr (6% Concentrate) IV ONLY more than 30 elements
+Oral Dextrose mL (50% concentrate) {'nan': 8154, '1.0': 298, '3.0': 1, '2.0': 12, '0.5': 79, '1.5': 2, '10.0': 2, '5.0': 1, '8.0': 1, '6.0': 1}
+Panacur mL (100mg/mL) ORAL ONLY more than 30 elements
+Strongid mL ORAL ONLY {'nan': 8548, '0.9': 1, '1.48': 1, '0.75': 1}
+Marquis Paste ORAL ONLY more than 30 elements
+Amount of SQ Fluids Administered mL more than 30 elements
+Anzemet mL (20mg/mL) IV ONLY {'nan': 8524, '0.12': 1, '0.2': 4, '0.28': 4, '0.26': 2, '1.0': 2, '0.23': 3, '0.32': 8, '0.19': 1, '0.03': 1, '0.18': 1}
+Famotidine mL (10mg/mL)  more than 30 elements
+Famotidine Route {'nan': 7393, 'SQ': 894, 'IV': 264}
+Other Notes more than 30 elements
+Other Medications (Name/Strength/Dose/Route) more than 30 elements
+Amount of IV Fluids Administered mL/hr more than 30 elements
+Oral Nutrical mL {'nan': 8073, '1.0': 103, '2.0': 284, '3.0': 87, '1.5': 4}
+Hetastarch Dosage mL (6% Concentrate) IV ONLY more than 30 elements
+Unnamed: 41 {'nan': 8551}
+Treatments Since Intake more than 30 elements
+Treatments Until Outcome more than 30 elements
+outcome {'0.0': 7875, '1.0': 676}
+Dominant Route {'IV': 2773, 'SQ': 3438, 'None': 2340}

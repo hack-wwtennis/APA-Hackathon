@@ -1,0 +1,48 @@
+Data Entry Timestamp 8551  elements
+Treatment Date 373  elements
+Treatment Shift {'AM': 4358, 'PM': 4191, 'nan': 2}
+Dog A# 687  elements
+Dog Name 711  elements
+Paw Temperature {'0.0': 8454, '1.0': 97}
+Gum Color {'0.0': 8084, '1.0': 444, '2.0': 13, '3.0': 10}
+Attitude {'2.0': 3028, '1.0': 5428, '3.0': 90, '4.0': 5}
+Co-morbidities noted TODAY {'nan': 8313, 'suspect right tibia fracture healing': 1, 'Intestinal Parasites': 35, 'URI': 81, 'Heart murmur': 1, 'Possible Intussusception': 1, 'Ringworm': 75, 'Coughing': 1, 'Distemper': 12, 'Abscess - Catheter': 9, 'Nasal Discharge': 1, 'URI, Ringworm': 7, 'Abscess - Baytril': 2, 'Swollen Face': 1, 'Sarcoptic Mange': 4, 'Distemper - Watch': 1, 'Broken paw': 1, 'Broken Legs': 1, 'Eye Discharge': 1, 'Abscess on left axillary region/lateral thorax from previous shelter': 1, 'Oozing wound on left shelter': 1, 'Demodex Mange': 1}
+On Distemper Watch? (only mark on shift watch started) {'0': 8432, '1': 119}
+Baytril mL (Strength:100mg/mL) SQ ONLY 145  elements
+Polyflex mL (Strength: 200mg/mL) SQ ONLY 133  elements
+Metoclopromide mL (Strength: 5mg/mL) 147  elements
+Metoclopromide Route {'nan': 4963, 'SQ': 3577, 'IV': 11}
+Cerenia mL  125  elements
+Cerenia Route {'nan': 5103, 'SQ': 3374, 'IV': 74}
+Vomiting {'0.0': 7737, '2.0': 210, '1.0': 593, '3.0': 11}
+Appetite {'3.0': 2784, '2.0': 24, '1.0': 1179, '0.0': 4564}
+Feces {'4.0': 661, '2.0': 3296, '0.0': 1232, '1.0': 2572, '3.0': 790}
+Type of Fluids Administered 86  elements
+Force Feeding {'15 mL': 591, '0 mL (Did NOT FF)': 5099, '35 mL': 162, '20 mL': 679, 'nan': 23, '10 mL': 198, '30 mL': 678, '25 mL': 559, '45 mL': 66, '35': 1,
+'5 mL': 18, '40 mL': 201, '60 mL': 141, '50 mL': 13, '50': 22, '60': 66, '60 ml': 26, '50ml': 1, '60cc': 4, '50 ml': 1, '100': 1, '55': 1}
+Packed Cell Volume % (not required each shift) 67  elements
+Blood Glucose (not required each shift) 183  elements
+Total Protein (not required each shift) 78  elements
+Temperature F (not required each shift) 50  elements
+Drinking Water {'1.0': 3370, '0.0': 5181}
+Cefazolin mL (1 gram/vial) IV ONLY 104  elements
+Hetastarch Rate mL/hr (6% Concentrate) IV ONLY {'120.0': 34, 'nan': 7981, '150.0': 69, '60.0': 47, '80.0': 23, '140.0': 10, '40.0': 5, '900.0': 2, '350.0': 6,
+'200.0': 28, '8.0': 1, '6.0': 2, '600.0': 2, '100.0': 83, '90.0': 74, '75.0': 37, '130.0': 21, '135.0': 4, '240.0': 2, '45.0': 8, '20.0': 7, '800.0': 2, '960.0': 1, '160.0': 13, '155.0': 1, '110.0': 5, '164.0': 1, '250.0': 18, '220.0': 4, '320.0': 1, '330.0': 9, '300.0': 19, '180.0': 2, '400.0': 1, '500.0': 1, '280.0': 1, '66.0': 2, '54.0': 11, '70.0': 5, '84.0': 5, '48.0': 3}
+Oral Dextrose mL (50% concentrate) {'nan': 8154, '1.0': 298, '3.0': 1, '2.0': 12, '0.5': 79, '1.5': 2, '10.0': 2, '5.0': 1, '8.0': 1, '6.0': 1}
+Panacur mL (100mg/mL) ORAL ONLY 174  elements
+Strongid mL ORAL ONLY {'nan': 8548, '0.9': 1, '1.48': 1, '0.75': 1}
+Marquis Paste ORAL ONLY 56  elements
+Amount of SQ Fluids Administered mL 85  elements
+Anzemet mL (20mg/mL) IV ONLY {'nan': 8524, '0.12': 1, '0.2': 4, '0.28': 4, '0.26': 2, '1.0': 2, '0.23': 3, '0.32': 8, '0.19': 1, '0.03': 1, '0.18': 1}
+Famotidine mL (10mg/mL)  94  elements
+Famotidine Route {'nan': 7393, 'SQ': 894, 'IV': 264}
+Other Notes 273  elements
+Other Medications (Name/Strength/Dose/Route) 873  elements
+Amount of IV Fluids Administered mL/hr 74  elements
+Oral Nutrical mL {'nan': 8073, '1.0': 103, '2.0': 284, '3.0': 87, '1.5': 4}
+Hetastarch Dosage mL (6% Concentrate) IV ONLY {'nan': 7992, '75.0': 63, '20.0': 32, '15.0': 37, '40.0': 29, '70.0': 10, '300.0': 2, '175.0': 6, '50.0': 65, '150.0': 21, '25.0': 71, '30.0': 71, '10.0': 17, '100.0': 16, '65.0': 21, '45.0': 10, '90.0': 1, '200.0': 3, '80.0': 15, '60.0': 3, '55.0': 5, '125.0': 22, '160.0': 9, '165.0': 1, '250.0': 1, '140.0': 1, '120.0': 1, '22.0': 2, '18.0': 11, '35.0': 5, '7.0': 4, '14.0': 1, '8.0': 3}
+Unnamed: 41 {'nan': 8551}
+Treatments Since Intake 54  elements
+Treatments Until Outcome 56  elements
+outcome {'0.0': 7875, '1.0': 676}
+Dominant Route {'IV': 2773, 'SQ': 3438, 'None': 2340}
